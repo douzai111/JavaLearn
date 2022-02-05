@@ -1,0 +1,7 @@
+先用记事本写下程序，然后保存并命名为class的名字，如Hello.java，文件类型选择“所有文件”。
+
+接下来，打开cmd，cd到当前文件所在的位置，如 cd JAVA。
+
+然后，在cmd输入javac Hello.java，此步骤是编译自己的java程序。
+
+之后，输入java Hello，即可输出java的运行结果。
