@@ -3,5 +3,6 @@
 接下来，打开cmd，cd到当前文件所在的位置，如 cd JAVA。
 
 然后，在cmd输入javac Hello.java，此步骤是编译自己的java程序。
-
 之后，输入java Hello，即可输出java的运行结果。
+
+或者直接运行java Hello.java也是可以的！
